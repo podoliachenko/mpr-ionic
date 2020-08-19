@@ -1,0 +1,15 @@
+.volume-buttons {
+  display: flex;
+  justify-content: space-around;
+}
+app-touch-pad {
+  display: flex;
+  flex-grow: 1;
+}
+
+.content {
+  height: 100%;
+  flex-grow: 1;
+  flex-direction: column;
+  display: flex;
+}
