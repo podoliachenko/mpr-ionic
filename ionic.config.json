@@ -1,0 +1,7 @@
+{
+  "name": "MyPersonalRemote",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
